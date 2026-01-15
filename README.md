@@ -12,40 +12,17 @@
 
 ### ☁️ Stacks
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">Languages:</strong> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="vertical-align: middle;"/>
-</div>
+**Languages:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="vertical-align: middle;"/>
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">Backend:</strong> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" style="vertical-align: middle;"/>
-</div>
+**Backend:** <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring" style="vertical-align: middle;"/>
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">Database:</strong> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" style="vertical-align: middle;"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" style="vertical-align: middle;"/>
-</div>
+**Database:** <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" style="vertical-align: middle;"/>
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">Cloud/DevOps:</strong> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS" style="vertical-align: middle;"/>
-<img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="NCP" style="vertical-align: middle;"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" style="vertical-align: middle;"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align: middle;"/>
-</div>
+**Cloud/DevOps:** <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="NCP" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align: middle;"/>
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">MQ:</strong> 
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka" style="vertical-align: middle;"/>
-</div>
+**MQ:** <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka" style="vertical-align: middle;"/>
 
-<div style="line-height: 2;">
-<strong style="vertical-align: middle; display: inline-block;">Game Engine:</strong> 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" alt="Unity" style="vertical-align: middle;"/>
-</div>
+**Game Engine:** <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" alt="Unity" style="vertical-align: middle;"/>
 
 ---
 
